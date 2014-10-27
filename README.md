@@ -6,13 +6,11 @@ To use C to create an etch a sketch program that utilizes assemply code.
 
 #Hardware Schematic
 
-![Alt Text](    ?raw=true)
-
-This is an image of the LCD screen on the MSP430 that was used to determine if the functionality was working.
+It is the LCD screen on the MSP430.
 
 #Debugging
 
-
+There was not much for debugging in this Lab. The only errors I recieved were during the C code, where semicolons,commas, no commas mattered.
 
 #Testing Methedology/Results
 
